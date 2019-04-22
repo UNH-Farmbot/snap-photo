@@ -1,5 +1,5 @@
 {
- "package": "Snap-Photo",
+ "package": "snap-photo",
  "language": "python",
  "author": "UNHFarmbot",
  "description": "Take a photo using a USB or Raspberry Pi camera.",
