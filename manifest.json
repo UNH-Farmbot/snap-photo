@@ -1,0 +1,14 @@
+{
+ "package": "snap-photo",
+ "language": "python",
+ "author": "FarmBot, Inc.",
+ "description": "Take a photo using a USB or Raspberry Pi camera.",
+ "farmware_manifest_version": "2.0",
+ "package_version": "1.0.2",
+ "farmbot_os_version_requirement": ">=3.0.0",
+ "farmware_tools_version_requirement": ">=0.0.0",
+ "url": "https://raw.githubusercontent.com/UNH-Farmbot/snap-photo/master/packages/take-photo/manifest.json",
+ "zip": "https://github.com/UNH-Farmbot/snap-photo/archive/master.zip",
+ "executable": "python",
+ "args": "snap-photo-master/snap_photo.py"
+}
