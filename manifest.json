@@ -1,12 +1,12 @@
 {
- "package": "snap-photo",
+ "package": "Snap-Photo",
  "language": "python",
- "author": "UNHFarmBot",
+ "author": "UNHFarmbot",
  "description": "Take a photo using a USB or Raspberry Pi camera.",
  "version": "0.1.0",
- "min_os_version_major": 6
- "url": "https://raw.githubusercontent.com/UNH-Farmbot/snap-photo/master/packages/take-photo/manifest.json",
+ "min_os_version_major": 6,
+ "url": "https://raw.githubusercontent.com/UNH-Farmbot/snap-photo/master/manifest.json",
  "zip": "https://github.com/UNH-Farmbot/snap-photo/archive/master.zip",
  "executable": "python",
- "args": "snap-photo-master/snap_photo.py"
+ "args": ["snap-photo-master/snap_photo.py"],
 }
